@@ -29,5 +29,4 @@ int main()
     rent=30*50+(dis-30)*40;
   printf("\nRent = %d",rent);
   
-  return 0;
 }
