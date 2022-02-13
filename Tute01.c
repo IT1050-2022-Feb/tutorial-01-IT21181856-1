@@ -11,7 +11,7 @@ int main()
    for(x=0;x<2;x++)
    {
       printf("enter subject %d marks: ",x+1);
-      scanf("%f",&marks)
+      scanf("%f",&marks);
         tot=tot+marks;
    }
    printf("\nAverage = %.2f" , tot/2.0);
